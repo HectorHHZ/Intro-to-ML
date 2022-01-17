@@ -44,7 +44,7 @@ This course is offered by NYU Tandon school of Eningeering. I took this course a
 
 ## Comment
 
-Great professor with great schedule. Anna is an expert in ML. She is nice and humorous. This course has the same material and schedule with Columbia University COMS4771-001 ML. HOWEVER, this course is extremly competitive! Average of Midterm is 96 and average of Final is 86. You need to be really good at ML and familiar with all the optimization/ inference/ statistic to survive. (Although I got 97.5/100 in the final, I still miss A due to late submission of HW1. My summary grade is 92.6 and students who get A should be above 93.5) You need to be good at all the concept to get A!
+Great professor with great schedule. Anna is an expert in ML. She is nice and humorous. This course has the same material and schedule with Columbia University COMS4771-001 ML. This course is extremly competitive! Average of Midterm is 96 and average of Final is 86. You need to be really good at ML and familiar with all the optimization/ inference/ statistic to survive. (Although I got 97.5/100 in the final, I still miss A due to late submission of HW1. My summary grade is 92.6 and students who get A should be above 93.5) You need to be good at all the concept to get A!
 
 
 
