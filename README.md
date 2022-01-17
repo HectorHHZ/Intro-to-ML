@@ -52,6 +52,10 @@ After Intro to ML, you can choose to take advanced ML offered by Anna. Besides, 
 
 
 
+# Assignment
+
+Since Anna use the same assignment repeatly in each semester, I will not release my solution for the assignments. If you need more practice, you can either go for Machine learning repository(instructed by He He), or search COMS4771-001 ML on the internet to find practice questions.
+
 
 
 ## Final Grade
